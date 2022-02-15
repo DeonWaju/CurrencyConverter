@@ -1,0 +1,2 @@
+include ':sharedmodule'
+include ':app'
